@@ -1,8 +1,7 @@
 #include "board.hpp"
+#include "piece.hpp"
+#include "constants.hpp"
 
 int main() {
-  Board board(9, 9);
-  board.draw(); 
-
   return 0;
 }

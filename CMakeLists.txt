@@ -8,6 +8,7 @@ set(CMAKE_CXX_STANDARD_REQUIRED ON)
 add_executable(chess
     main.cpp
     board.cpp
+    piece.cpp
 )
 
 target_include_directories(chess PRIVATE

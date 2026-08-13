@@ -1,3 +1,4 @@
+#pragma once
 #include <iostream>
 
 #define BG_LIGHT  "\033[48;5;180m"
